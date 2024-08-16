@@ -54,8 +54,6 @@
 		9FFF27D72C6B582800BAC3F1 /* AnimalGallery.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = AnimalGallery.xcdatamodel; sourceTree = "<group>"; };
 		9FFF27DD2C6B582900BAC3F1 /* AnimalGalleryTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AnimalGalleryTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9FFF27E12C6B582900BAC3F1 /* AnimalGalleryTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimalGalleryTests.swift; sourceTree = "<group>"; };
-		9FFF27EB2C6B582900BAC3F1 /* AnimalGalleryUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimalGalleryUITests.swift; sourceTree = "<group>"; };
-		9FFF27ED2C6B582900BAC3F1 /* AnimalGalleryUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimalGalleryUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		9FFF27FA2C6B5ADF00BAC3F1 /* NetworkManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkManager.swift; sourceTree = "<group>"; };
 		9FFF27FD2C6B6F6000BAC3F1 /* AnimalListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimalListView.swift; sourceTree = "<group>"; };
 		9FFF27FF2C6B6FF600BAC3F1 /* AnimalListViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimalListViewModel.swift; sourceTree = "<group>"; };
@@ -96,7 +94,6 @@
 			children = (
 				9FFF27CA2C6B582200BAC3F1 /* AnimalGallery */,
 				9FFF27E02C6B582900BAC3F1 /* AnimalGalleryTests */,
-				9FFF27EA2C6B582900BAC3F1 /* AnimalGalleryUITests */,
 				9FFF27C92C6B582200BAC3F1 /* Products */,
 				9FB029342C6BBB1A009C02AE /* Frameworks */,
 			);
@@ -144,15 +141,6 @@
 				9FB029592C6F33C3009C02AE /* FavoritePicturesViewModelTests.swift */,
 			);
 			path = AnimalGalleryTests;
-			sourceTree = "<group>";
-		};
-		9FFF27EA2C6B582900BAC3F1 /* AnimalGalleryUITests */ = {
-			isa = PBXGroup;
-			children = (
-				9FFF27EB2C6B582900BAC3F1 /* AnimalGalleryUITests.swift */,
-				9FFF27ED2C6B582900BAC3F1 /* AnimalGalleryUITestsLaunchTests.swift */,
-			);
-			path = AnimalGalleryUITests;
 			sourceTree = "<group>";
 		};
 		9FFF27FC2C6B6F4100BAC3F1 /* AnimalList */ = {
