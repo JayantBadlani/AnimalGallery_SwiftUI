@@ -23,7 +23,15 @@
 **Filter by Animal:** Filter favorite images by animal.
 
 
-## Core Data Integration
+## Architecture & Design
+**MVVM:** The app follows the MVVM (Model-View-ViewModel) architecture pattern to separate concerns and improve maintainability.
+**SwiftUI:** The user interface is built using SwiftUI, providing a modern and declarative approach to UI development.
+**Code Structure:** The code is organized into separate modules for networking, data management, and UI components.
+**Responsive Design:** Ensures proper layout for both iPhone and iPad.
+**User Feedback:** Displays loading indicators, error alerts, and other feedback.
+**Navigation:** Smooth transitions between screens.
+
+## DataBase Integration
 **Core Data Setup:** A centralized Core Data Manager handles saving, fetching, and deleting favorite images.
 **Fetch/Save/Remove:** Manages Core Data operations for favorite images.
 
@@ -33,11 +41,6 @@
 
 ## Image Caching
 **SDWebImageSwiftUI:** Utilizes SDWebImageSwiftUI using Swift Package Manager for efficient image caching and loading.
-
-## UI/UX
-**Responsive Design:** Ensures proper layout for both iPhone and iPad.
-**User Feedback:** Displays loading indicators, error alerts, and other feedback.
-**Navigation:** Smooth transitions between screens.
 
 ## Error Handling
 **Network Errors:** Handled with appropriate error messages to the user.
