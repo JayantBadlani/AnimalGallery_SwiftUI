@@ -1,9 +1,9 @@
 # AnimalGallery_SwiftUI
 ## AnimalGallery_SwiftUI is an iOS application that allows users to browse a list of animals, view their pictures, and manage their favorites. It uses the API-NINJAS for animal details and the API-Pexels for fetching images. Core Data is used to store and manage favorite pictures.
 
-<img width="377" alt="Screenshot 2024-08-16 at 3 43 43 PM" src="https://github.com/user-attachments/assets/b85a7f5d-6d9f-4904-a5d9-093b08710f04">
-<img width="377" alt="Screenshot 2024-08-16 at 3 44 29 PM" src="https://github.com/user-attachments/assets/e9a30cd7-39aa-48a3-9afd-144e987f6189">
-<img width="377" alt="Screenshot 2024-08-16 at 3 45 19 PM" src="https://github.com/user-attachments/assets/ea1a2ebf-3e5e-431c-b5b3-574139ba7158">
+<img width="250" alt="Screenshot 2024-08-16 at 3 47 54 PM" src="https://github.com/user-attachments/assets/8c2d40ff-cdb2-4227-b771-068d86cb4c11">
+<img width="250" alt="Screenshot 2024-08-16 at 3 44 29 PM" src="https://github.com/user-attachments/assets/88a14fc4-73cd-4fe4-8729-664b643c5b0f">
+<img width="250" alt="Screenshot 2024-08-16 at 3 45 19 PM" src="https://github.com/user-attachments/assets/f48fd3df-0e9c-43ea-8d66-82281b91cdfa">
 
 ## Features
 ### 1. List of Animals Screen
