@@ -24,12 +24,17 @@
 
 
 ## Architecture & Design
--**MVVM:** The app follows the MVVM (Model-View-ViewModel) architecture pattern to separate concerns and improve maintainability.
--**SwiftUI:** The user interface is built using SwiftUI, providing a modern and declarative approach to UI development.
--**Code Structure:** The code is organized into separate modules for networking, data management, and UI components.
--**Responsive Design:** Ensures proper layout for both iPhone and iPad.
--**User Feedback:** Displays loading indicators, error alerts, and other feedback.
--**Navigation:** Smooth transitions between screens.
+**MVVM:** The app follows the MVVM (Model-View-ViewModel) architecture pattern to separate concerns and improve maintainability.
+
+**SwiftUI:** The user interface is built using SwiftUI, providing a modern and declarative approach to UI development.
+
+**Code Structure:** The code is organized into separate modules for networking, data management, and UI components.
+
+**Responsive Design:** Ensures proper layout for both iPhone and iPad.
+
+**User Feedback:** Displays loading indicators, error alerts, and other feedback.
+
+**Navigation:** Smooth transitions between screens.
 
 ## DataBase Integration
 **Core Data Setup:** A centralized Core Data Manager handles saving, fetching, and deleting favorite images.
