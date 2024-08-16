@@ -46,6 +46,4 @@
 **Network Errors:** Handled with appropriate error messages to the user.
 **Core Data Errors:** Managed within the Core Data Manager.
 
-## Refactoring & Code Quality
-**Code Refactoring:** Clean, modular code following best practices.
-**Comments & Documentation:** Well-commented important sections of the code.
+### Clean, modular code following best practices and well-commented important sections of the code.
